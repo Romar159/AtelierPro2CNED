@@ -182,17 +182,6 @@
             // LB_Personnels
             // 
             this.LB_Personnels.FormattingEnabled = true;
-            this.LB_Personnels.Items.AddRange(new object[] {
-            "Personnel1",
-            "Personnel2",
-            "Personnel3",
-            "Personnel4",
-            "Personnel5",
-            "Personnel6",
-            "Personnel7",
-            "Personnel8",
-            "Personnel8",
-            "Personnel10"});
             this.LB_Personnels.Location = new System.Drawing.Point(4, 56);
             this.LB_Personnels.Name = "LB_Personnels";
             this.LB_Personnels.Size = new System.Drawing.Size(203, 498);
