@@ -1,2 +1,2 @@
 # AtelierPro2CNED
-Projet étudiant.
+Projet étudiant pour la première année de BTS SIO au CNED.
